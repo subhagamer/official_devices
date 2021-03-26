@@ -8,3 +8,4 @@ List of all the Officially Supported Devices:
 |     Realme 3 Pro              |    RMX1851       | [**Supratim Dey**](https://t.me/supratimdey)    |
 |     Realme XT                 |    RMX1921       | [**Advaith Bhat**](https://t.me/advaithbhat)    |
 |     Realme 6/6i               |    RMX2001       | [**Sarthak Roy**](https://t.me/sarthakroy2002)    |
+|     Redmi Note 5 Pro / AI     |    WHYRED        | [**P.M.SALMAN KHAN**](https://t.me/SALMAN_IS_HERE)    |
