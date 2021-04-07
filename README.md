@@ -11,3 +11,4 @@ List of all the Officially Supported Devices:
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)        | 
 |     Redmi K20                 |    DAVINCI       | [**Gokul SB**](https://t.me/caped_cruz)         |
 |     Lenovo Z6 Pro             |    Zippo         | [**Einar Gednochsson**](https://t.me/kanstmablason)    |
+|     Redmi Note 8              |    Ginkgo        | [**Gabx**](t.me/https://Gabx_.i)
