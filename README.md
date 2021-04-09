@@ -10,4 +10,5 @@ List of all the Officially Supported Devices:
 |     Redmi Note 5 Pro / AI     |    WHYRED        | [**P.M.SALMAN KHAN**](https://t.me/SALMAN_IS_HERE)    |
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)        | 
 |     Lenovo Z6 Pro             |    Zippo         | [**Einar Gednochsson**](https://t.me/kanstmablason)    |
-|     Redmi Note 8              |    Ginkgo        | [**Gabx**](t.me/https://Gabx_.i)
+|     Redmi Note 8              |    Ginkgo        | [**Gabx**](t.me/https://Gabx_.i)    |
+|     Redmi 9 and Poco M2       |    Lava          | [**Naufal Wiwit Putra**](https://t.me/nauFOSS)    |    
