@@ -12,3 +12,4 @@ List of all the Officially Supported Devices:
 |     Redmi Note 8              |    Ginkgo        | [**Gabx**](t.me/https://Gabx_.i)    |
 |     Redmi 9 and Poco M2       |    Lava          | [**Naufal Wiwit Putra**](https://t.me/nauFOSS)    |    
 |     Redmi Note 7 Pro          |    violet        | [**Subrata Maity**](https//t.me/Rdx55)    |
+|     Redmi S2                  |    Ysl.          | [**Aakif Mudel**](https://t.me/itsaakif)
