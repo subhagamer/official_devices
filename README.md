@@ -3,7 +3,6 @@ List of all the Officially Supported Devices:
 
 |         Device Name:          | Device Codename: |                 Maintainer:                     |
 |-------------------------------|------------------|-------------------------------------------------|
-|     Realme 5 Pro              |    RMX1971       | [**Madhav Saladi(BabluS)**](https://t.me/BabluS)        |
 |     Realme 3 Pro              |    RMX1851       | [**Supratim Dey**](https://t.me/supratimdey)    |
 |     Realme XT                 |    RMX1921       | [**Advaith Bhat**](https://t.me/advaithbhat)    |
 |     Redmi Note 5 Pro / AI     |    WHYRED        | [**P.M.SALMAN KHAN**](https://t.me/SALMAN_IS_HERE)    |
