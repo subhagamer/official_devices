@@ -5,7 +5,6 @@ List of all the Officially Supported Devices:
 |-------------------------------|------------------|-------------------------------------------------|
 |     Realme 3 Pro              |    RMX1851       | [**Supratim Dey**](https://t.me/supratimdey)    |
 |     Realme XT                 |    RMX1921       | [**Advaith Bhat**](https://t.me/advaithbhat)    |
-|     Redmi Note 5 Pro / AI     |    WHYRED        | [**P.M.SALMAN KHAN**](https://t.me/SALMAN_IS_HERE)    |
 |     Lenovo Z6 Pro             |    Zippo         | [**Einar Gednochsson**](https://t.me/kanstmablason)    |
 |     Redmi Note 8              |    Ginkgo        | [**Gabx**](https://t.me/Gabx_.i)    |
 |     Redmi 9 and Poco M2       |    Lava          | [**Naufal Wiwit Putra**](https://t.me/nauFOSS)    |    
