@@ -12,3 +12,4 @@ List of all the Officially Supported Devices:
 |     Redmi S2                  |    Ysl.          | [**Aakif Mudel**](https://t.me/itsaakif)
 |     Xiaomi Poco F1            |    Beryllium     | [**Roxor07**](https://t.me/RoXoR07) |
 |     Mi10i and Mi10t lite      |    gauguin       | [**Seif Shahin**](https://t.me/Droneship)  |
+|     Realme 6 Series           |    RMX2001       | [**dae**](https://t.me/ctivity)  |
