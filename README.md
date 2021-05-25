@@ -13,3 +13,5 @@ List of all the Officially Supported Devices:
 |     Xiaomi Poco F1            |    Beryllium     | [**Roxor07**](https://t.me/RoXoR07) |
 |     Mi10i and Mi10t lite      |    gauguin       | [**Seif Shahin**](https://t.me/Droneship)  |
 |     Realme 6 Series           |    RMX2001       | [**dae**](https://t.me/ctivity)  |
+|     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)    |
+
