@@ -14,4 +14,4 @@ List of all the Officially Supported Devices:
 |     Mi10i and Mi10t lite      |    gauguin       | [**Seif Shahin**](https://t.me/Droneship)  |
 |     Realme 6 Series           |    RMX2001       | [**dae**](https://t.me/ctivity)  |
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)    |
-
+|     Poco X2                   |    Phoenix       | [**Anky**](https://t.me/AD_Anky)  |
