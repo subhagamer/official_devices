@@ -15,3 +15,4 @@ List of all the Officially Supported Devices:
 |     Realme 6 Series           |    RMX2001       | [**dae**](https://t.me/ctivity)  |
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)    |
 |     Poco X2                   |    Phoenix       | [**Anky**](https://t.me/AD_Anky)  |
+|     Realme 5 Series           |RMX 1911 , 1925 , 2030| [**Naresh Kumar**](https://t.me/naryvip)  |
