@@ -16,3 +16,4 @@ List of all the Officially Supported Devices:
 |     Redmi Note 9s/Pro/Pro Max |    Miatoll       | [**Surya Vamsi**](https://t.me/Surya580)    |
 |     Poco X2                   |    Phoenix       | [**Anky**](https://t.me/AD_Anky)  |
 |     Realme 5 Series           |RMX 1911 , 1925 , 2030| [**Naresh Kumar**](https://t.me/naryvip)  |
+|     Asus Zenfone Max Pro M2   |    X01BD         | [**Shibi Krishna**](https://t.me/shibierr404)   |
